@@ -1,0 +1,11 @@
+version: "3"
+services:
+  database:
+    image: "postgres"
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: "Password2021#"
+      POSTGRES_USER: "sa"
+      POSTGRES_DB: "mvc_shop"
+    ports:
+      - 5444:5432
