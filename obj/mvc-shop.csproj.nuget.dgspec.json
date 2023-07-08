@@ -1,26 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj": {}
+    "C:\\Users\\Younes\\Desktop\\mvc-shop\\mvc-shop.csproj": {}
   },
   "projects": {
-    "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj": {
+    "C:\\Users\\Younes\\Desktop\\mvc-shop\\mvc-shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj",
+        "projectUniqueName": "C:\\Users\\Younes\\Desktop\\mvc-shop\\mvc-shop.csproj",
         "projectName": "mvc-shop",
-        "projectPath": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj",
-        "packagesPath": "/Users/shini/.nuget/packages/",
-        "outputPath": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/obj/",
+        "projectPath": "C:\\Users\\Younes\\Desktop\\mvc-shop\\mvc-shop.csproj",
+        "packagesPath": "C:\\Users\\Younes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Younes\\Desktop\\mvc-shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/shini/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Younes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
