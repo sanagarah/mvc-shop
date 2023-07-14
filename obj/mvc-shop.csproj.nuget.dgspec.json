@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj": {}
+    "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop.csproj": {}
   },
   "projects": {
-    "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj": {
+    "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj",
+        "projectUniqueName": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop.csproj",
         "projectName": "mvc-shop",
-        "projectPath": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj",
+        "projectPath": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop.csproj",
         "packagesPath": "/Users/shini/.nuget/packages/",
-        "outputPath": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/obj/",
+        "outputPath": "/Users/Shared/Files From c.localized/Code/mvc-shop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shini/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UbVXl6zGo9H0Lwt9Z+EzYTmery/wKa+XIHkQlj8rrKRRnsmMY2g3bGjwrEpWcqXGpPv0R4FxQdOAgAp1hBUJZQ==",
+  "dgSpecHash": "CqKvHPU2EaIoHTrrcCV2Bp3CS4xhvcVlR8IeCx3Wt6tmUtr5Li9huUmPuXZIBzZmQU3XrZyRXZH2VsgeOr2w9Q==",
   "success": true,
-  "projectFilePath": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/mvc-shop.csproj",
+  "projectFilePath": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop.csproj",
   "expectedPackageFiles": [
     "/Users/shini/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/shini/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

@@ -9,7 +9,8 @@ namespace mvc_shop.Models
 		public  int Id { get; set; }
 		[Required]
 		public string Name { get; set; } = default!;
-		public string Description { get; set; } = default!;
+        [Required]
+        public string Description { get; set; } = default!;
         [Range(1,int.MaxValue)]
 		public double Price { get; set; } = default!;
         public string Image { get; set; } = default!;

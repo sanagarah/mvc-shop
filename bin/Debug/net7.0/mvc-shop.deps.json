@@ -985,7 +985,7 @@
         "runtime": {
           "lib/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.823.31807"
+            "fileVersion": "7.0.923.32110"
           }
         }
       },
@@ -996,7 +996,7 @@
         "runtime": {
           "lib/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.823.31807"
+            "fileVersion": "7.0.923.32110"
           }
         }
       },
@@ -1070,8 +1070,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31807"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.32110"
           }
         },
         "compile": {
@@ -1085,8 +1085,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.AspNetCore.Identity.UI.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31807"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.32110"
           }
         },
         "compile": {
@@ -1116,8 +1116,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31807"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.32110"
           }
         },
         "compile": {
@@ -1734,8 +1734,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {
@@ -1752,8 +1752,8 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31802"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.31909"
           }
         },
         "compile": {
@@ -1763,8 +1763,8 @@
       "Microsoft.EntityFrameworkCore.Abstractions/7.0.9": {
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31802"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.31909"
           }
         },
         "compile": {
@@ -1781,8 +1781,8 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31802"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.31909"
           }
         }
       },
@@ -1793,8 +1793,8 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Relational.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31802"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.31909"
           }
         },
         "compile": {
@@ -1808,8 +1808,8 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
-            "assemblyVersion": "7.0.8.0",
-            "fileVersion": "7.0.823.31802"
+            "assemblyVersion": "7.0.9.0",
+            "fileVersion": "7.0.923.31909"
           }
         },
         "compile": {
@@ -1873,7 +1873,7 @@
         "runtime": {
           "lib/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.823.31807"
+            "fileVersion": "7.0.923.32110"
           }
         }
       },
@@ -1894,7 +1894,7 @@
         "runtime": {
           "lib/net7.0/Microsoft.Extensions.Identity.Core.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.823.31807"
+            "fileVersion": "7.0.923.32110"
           }
         }
       },
@@ -1907,7 +1907,7 @@
         "runtime": {
           "lib/net7.0/Microsoft.Extensions.Identity.Stores.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.823.31807"
+            "fileVersion": "7.0.923.32110"
           }
         }
       },
@@ -2096,8 +2096,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {
@@ -2112,8 +2112,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {
@@ -2127,8 +2127,8 @@
         },
         "runtime": {
           "lib/net7.0/dotnet-aspnet-codegenerator-design.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {
@@ -2142,8 +2142,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {
@@ -2159,8 +2159,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {
@@ -2176,8 +2176,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {
@@ -2191,8 +2191,8 @@
         },
         "runtime": {
           "lib/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {
-            "assemblyVersion": "7.0.7.0",
-            "fileVersion": "7.0.723.31103"
+            "assemblyVersion": "7.0.8.0",
+            "fileVersion": "7.0.823.36101"
           }
         },
         "compile": {

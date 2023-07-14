@@ -1,279 +1,275 @@
 {
   "Files": [
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/obj/Debug/net7.0/scopedcss/projectbundle/mvc-shop.bundle.scp.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/obj/Debug/net7.0/scopedcss/projectbundle/mvc-shop.bundle.scp.css",
       "PackagePath": "staticwebassets/mvc-shop.bundle.scp.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/.DS_Store",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/css/site.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/favicon.ico",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/images/.DS_Store",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/images/.DS_Store",
       "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/images/check-icon.png",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/images/check-icon.png",
       "PackagePath": "staticwebassets/images/check-icon.png"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/images/product/00fa1ab5-226d-464a-804d-bbee2969f8f3.jpg",
-      "PackagePath": "staticwebassets/images/product/00fa1ab5-226d-464a-804d-bbee2969f8f3.jpg"
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/images/product/0459c357-fdd5-4992-b1be-e334c692149c.jpg",
+      "PackagePath": "staticwebassets/images/product/0459c357-fdd5-4992-b1be-e334c692149c.jpg"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/images/product/1d6bbbf0-6943-4e60-a597-4b93c3099c17.jpg",
-      "PackagePath": "staticwebassets/images/product/1d6bbbf0-6943-4e60-a597-4b93c3099c17.jpg"
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/images/product/42b1c3c7-745d-485c-b63b-8b02415486bd.jpg",
+      "PackagePath": "staticwebassets/images/product/42b1c3c7-745d-485c-b63b-8b02415486bd.jpg"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/images/product/b68d54f8-1cb0-4dc1-a7f0-b305544d99c5.jpg",
-      "PackagePath": "staticwebassets/images/product/b68d54f8-1cb0-4dc1-a7f0-b305544d99c5.jpg"
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/images/product/f67479df-9fc8-4ca9-952b-c531b6a8238d.jpg",
+      "PackagePath": "staticwebassets/images/product/f67479df-9fc8-4ca9-952b-c531b6a8238d.jpg"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/images/product/ffead7cf-8fdc-452e-b7e8-c39fe0839708.png",
-      "PackagePath": "staticwebassets/images/product/ffead7cf-8fdc-452e-b7e8-c39fe0839708.png"
-    },
-    {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/js/site.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/mvc-shop/wwwroot/templates/Inquiry.html",
+      "Id": "/Users/Shared/Files From c.localized/Code/mvc-shop/wwwroot/templates/Inquiry.html",
       "PackagePath": "staticwebassets/templates/Inquiry.html"
     },
     {
