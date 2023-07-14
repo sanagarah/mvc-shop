@@ -6,7 +6,7 @@ namespace mvc_shop.Models
 	public class Category
 	{
 		[Key]
-		public required int Id {get; set;}
+		public required int Id { get; set; }
 		[Required]
 		public required string Name { get; set; }
 		[DisplayName("Display Order")]

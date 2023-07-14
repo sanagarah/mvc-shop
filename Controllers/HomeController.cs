@@ -32,14 +32,14 @@ namespace mvc_shop.Controllers
         {
             List<ShoppingCart> shoppingCartList = new List<ShoppingCart>();
             if (HttpContext.Session.Get<IEnumerable<ShoppingCart>>(WC.SessionCart) != null
-                && HttpContext.Session.Get<IEnumerable<ShoppingCart>>(WC.SessionCart).Count() > 0)
+                && HttpContext.Session.Get<IEnumerable<ShoppingCart>>(WC.SessionCart)?.Count() > 0)
             {
-                shoppingCartList = HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart);
+                shoppingCartList = HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart)!;
             }
 
             DetailsVM detailsVM = new DetailsVM()
             {
-                Product = _db.Products.Include(u => u.Category).Where(u => u.Id == id).FirstOrDefault(),
+                Product = _db.Products.Include(u => u.Category).Where(u => u.Id == id).FirstOrDefault()!,
                 ExistsInCart = false
             };
 
@@ -60,9 +60,9 @@ namespace mvc_shop.Controllers
         public IActionResult AddToCart(int id) {
             List<ShoppingCart> shoppingCartList = new List<ShoppingCart>();
             if (HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart) != null
-                && HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart).Count() > 0)
+                && HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart)?.Count() > 0)
             {
-                shoppingCartList = HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart);
+                shoppingCartList = HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart)!;
             }
             shoppingCartList.Add(new ShoppingCart { ProductId = id });
             HttpContext.Session.Set(WC.SessionCart, shoppingCartList);
@@ -74,9 +74,9 @@ namespace mvc_shop.Controllers
         {
             List<ShoppingCart> shoppingCartList = new List<ShoppingCart>();
             if (HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart) != null
-                && HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart).Count() > 0)
+                && HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart)?.Count() > 0)
             {
-                shoppingCartList = HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart);
+                shoppingCartList = HttpContext.Session.Get<List<ShoppingCart>>(WC.SessionCart)!;
             }
 
             var itemToRemove = shoppingCartList.FirstOrDefault(r => r.ProductId == id);

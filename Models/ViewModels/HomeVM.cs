@@ -1,9 +1,16 @@
-﻿namespace mvc_shop.Models.ViewModels
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace mvc_shop.Models.ViewModels
 {
 	public class HomeVM
 	{
-		public IEnumerable<Product> Products { get; set; }
-        public IEnumerable<Category> Categories { get; set; }
+        public HomeVM()
+        {
+            Products = new List<Product>();
+            Categories = new List<Category>();
+        }
+        public required IEnumerable<Product> Products { get; set; }
+        public required IEnumerable<Category> Categories { get; set; }
     }
 }
 

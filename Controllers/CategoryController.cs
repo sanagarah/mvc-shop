@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using mvc_shop.Models;
+using mvc_shop.Utility;
 
 namespace mvc_shop.Controllers
 {
+    //[Authorize(Roles = WC.AdminRole)]
     public class CategoryController : Controller
     {
         private readonly AppDbContext _db;
@@ -46,7 +49,7 @@ namespace mvc_shop.Controllers
             {
                 return NotFound();
             }
-            Category obj = _db.Categories.Find(id);
+            Category obj = _db.Categories.Find(id)!;
             if (obj == null)
             {
                 return NotFound();
@@ -76,7 +79,7 @@ namespace mvc_shop.Controllers
             {
                 return NotFound();
             }
-            Category obj = _db.Categories.Find(id);
+            Category obj = _db.Categories.Find(id)!;
             if (obj == null)
             {
                 return NotFound();
@@ -88,7 +91,7 @@ namespace mvc_shop.Controllers
         [HttpPost]
         public IActionResult DeletePost(int? id)
         {
-            Category obj = _db.Categories.Find(id);
+            Category obj = _db.Categories.Find(id)!;
             if (obj == null)
             {
                 return NotFound();

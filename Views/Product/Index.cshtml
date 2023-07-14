@@ -36,9 +36,6 @@
                 @foreach (var obj in Model)
                 {
                     <tr>
-                        @{
-                            System.Diagnostics.Debug.WriteLine(obj.Category);
-                        }
                         <td width="30%">@obj.Name</td>
                         <td width="20%">@obj.Price</td>
                         <td width="20%">@obj.Category.Name</td>

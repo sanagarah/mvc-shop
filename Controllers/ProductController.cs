@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using mvc_shop.Models;
@@ -7,6 +8,7 @@ using mvc_shop.Utility;
 
 namespace mvc_shop.Controllers
 {
+    //[Authorize(Roles = WC.AdminRole)]
     public class ProductController : Controller
     {
         private readonly AppDbContext _db;
@@ -45,7 +47,7 @@ namespace mvc_shop.Controllers
             {
                 return View(productVM);
             }
-            productVM.Product = _db.Products.Find(id);
+            productVM.Product = _db.Products.Find(id)!;
             if (productVM.Product == null)
             {
                 return NotFound();
@@ -81,7 +83,7 @@ namespace mvc_shop.Controllers
                 {
                     string fileName = Guid.NewGuid().ToString();
                     string fileExtention = Path.GetExtension(files[0].FileName);
-                    var oldFilePath = Path.Combine(upload, objFromDb.Image);
+                    var oldFilePath = Path.Combine(upload, objFromDb!.Image);
 
                     if (System.IO.File.Exists(oldFilePath))
                     {
@@ -97,7 +99,7 @@ namespace mvc_shop.Controllers
                 }
                 else
                 {
-                    productVM.Product.Image = objFromDb.Image;
+                    productVM.Product.Image = objFromDb!.Image;
                 }
                 _db.Products.Update(productVM.Product);
             }
@@ -112,7 +114,7 @@ namespace mvc_shop.Controllers
             {
                 return NotFound();
             }
-            Product obj = _db.Products.Include(u => u.Category).FirstOrDefault(u => u.Id == id);
+            Product obj = _db.Products.Include(u => u.Category).FirstOrDefault(u => u.Id == id)!;
             if (obj == null)
             {
                 return NotFound();
@@ -124,7 +126,7 @@ namespace mvc_shop.Controllers
         [HttpPost]
         public IActionResult DeletePost(int? id)
         {
-             Product obj = _db.Products.Find(id);
+             Product obj = _db.Products.Find(id)!;
             if (obj == null)
             {
                 return NotFound();

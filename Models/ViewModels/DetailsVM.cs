@@ -2,8 +2,13 @@
 {
 	public class DetailsVM
 	{
-		public Product Product { get; set; }
-		public bool ExistsInCart { get; set; }
+        public DetailsVM()
+        {
+            Product = new Product();
+            ExistsInCart = false;
+        }
+        public required Product Product { get; set; }
+        public required bool ExistsInCart { get; set; }
 	}
 }
 
